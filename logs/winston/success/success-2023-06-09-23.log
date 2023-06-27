@@ -1,0 +1,12 @@
+{
+  message: '❤ Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-09T17:44:17.692Z'
+}
+{
+  message: '🌭 database is connected on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-09T17:44:17.704Z'
+}

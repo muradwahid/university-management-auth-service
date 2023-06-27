@@ -1,0 +1,7 @@
+{
+  "vscode.tsc.compiler.alertOnError": "never",
+  "editor.codeActionsOnSave": {
+    "source.fixAll-eslint": true,
+    "source.organizeImports": true
+  }
+}
