@@ -1,8 +1,9 @@
 /* eslint-disable no-console */
 import cors from 'cors';
-import express, { Application } from 'express';
+import express, { Application, NextFunction, Request, Response } from 'express';
 import globalErrorHandler from './app/middleware/globalErrorHandler';
 import routes from './app/routes';
+import httpStatus from 'http-status';
 const app: Application = express()
 app.use(cors())
 
@@ -17,14 +18,30 @@ app.use('/api/v1', routes)
 //Testing
 // app.get('/', async(req: Request, res: Response, next: NextFunction) => {
 //   throw new Error('testing error')
-//   // console.log(x);
-//   // Promise.reject(new Error('Unhandled Promise Rejection'))
-//   // throw new ApiError(400,'custom error send')
-//   // next('error pass')
-//   // throw new Error('error')
+//console.log(x);
+// Promise.reject(new Error('Unhandled Promise Rejection'))
+// throw new ApiError(400,'custom error send')
+// next('error pass')
+// throw new Error('error')
 // })
 
 // Global error handler
 app.use(globalErrorHandler)
+
+//handle not found
+app.use((req:Request, res:Response, next:NextFunction) => {
+  res.status(httpStatus.NOT_FOUND).json({
+    success: false,
+    message: 'Not Found',
+    errorMessages: [
+      {
+        path: req.originalUrl,
+        message:'Api Not Found'
+        
+      }
+    ]
+  })
+  next()
+})
 
 export default app

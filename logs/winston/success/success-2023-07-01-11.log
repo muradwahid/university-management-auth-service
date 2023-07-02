@@ -2,23 +2,23 @@
   message: '❤ Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-08T07:12:26.481Z'
+  timestamp: '2023-07-01T05:52:48.568Z'
 }
 {
   message: '🌭 database is connected on port 5000',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-08T07:12:26.496Z'
+  timestamp: '2023-07-01T05:52:48.588Z'
 }
 {
   message: '❤ Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-08T07:13:12.530Z'
+  timestamp: '2023-07-01T05:55:45.131Z'
 }
 {
   message: '🌭 database is connected on port 5000',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-08T07:13:12.543Z'
+  timestamp: '2023-07-01T05:55:45.145Z'
 }
