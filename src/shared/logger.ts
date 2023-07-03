@@ -51,30 +51,5 @@ const errorLogger = createLogger({
     }),
   ],
 })
-// const errorLogger = createLogger({
-//   level: 'error',
-//   format: combine(
-//     label({ label: 'UM Error!' }),
-//     timestamp(),
-//     myFormat,
-//     prettyPrint()
-//   ),
-//   transports: [
-//     new transports.Console(),
-//     new DailyRotateFile({
-//       filename: path.join(
-//         process.cwd(),
-//         'logs',
-//         'winston',
-//         'error',
-//         'error-%DATE%.log'
-//       ),
-//       datePattern: 'YYYY-MM-DD-HH',
-//       zippedArchive: true,
-//       maxSize: '20m',
-//       maxFiles: '14d',
-//     }),
-//   ],
-// })
 
 export { logger,errorLogger };
