@@ -1,12 +1,12 @@
-import { Schema, model } from 'mongoose'
 import httpStatus from 'http-status'
-import { IAcademicSemester, academicSemesterModel } from './academicSemester.interface'
-import { AcademicSemesterTitles, academicSemesterCodes, academicSemesterMonths } from './academicSemester.constant'
+import { Schema, model } from 'mongoose'
 import ApiError from '../../../errors/ApiError'
+import { AcademicSemesterTitles, academicSemesterCodes, academicSemesterMonths } from './academicSemester.constant'
+import { IAcademicSemester, academicSemesterModel } from './academicSemester.interface'
 const academicSemesterSchema = new Schema<IAcademicSemester>(
   {
     title: { type: String, required: true, enum: AcademicSemesterTitles },
-    year: { type: Number, required: true },
+    year: { type:String, required: true },
     code: { type: String, required: true, enum: academicSemesterCodes },
     startMonth: { type: String, required: true, enum: academicSemesterMonths },
     endMonth: { type: String, required: true, enum: academicSemesterMonths },

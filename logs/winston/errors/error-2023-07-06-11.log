@@ -1,0 +1,26 @@
+{
+  stringValue: '"i"',
+  messageFormat: undefined,
+  kind: 'number',
+  value: 'i',
+  path: 'year',
+  reason: null,
+  valueType: 'string',
+  model: Model { AcademicSemester },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-06T05:41:16.901Z'
+}
+{
+  stringValue: '"i"',
+  messageFormat: undefined,
+  kind: 'number',
+  value: 'i',
+  path: 'year',
+  reason: null,
+  valueType: 'string',
+  model: Model { AcademicSemester },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-06T05:41:55.164Z'
+}

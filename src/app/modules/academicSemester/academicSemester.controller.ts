@@ -1,23 +1,26 @@
-import { NextFunction, Request, Response } from "express";
+import { Request, Response } from "express";
 import httpStatus from "http-status";
 import { paginationFields } from "../../../constants/pagination";
 import catchAsync from "../../../shared/catchAsync";
 import pick from "../../../shared/pick";
 import sendResponse from "../../../shared/sendResponse";
+import { filtersFields } from "./academicSemester.constant";
 import { IAcademicSemester } from "./academicSemester.interface";
-import { AcademicSemesterService, AcademicSemesterService as AcademicService } from "./academicSemester.service";
+import { AcademicSemesterService } from "./academicSemester.service";
 
-const createSemester = catchAsync(async (req:Request, res:Response,next:NextFunction) => {
+const createSemester = catchAsync(async (req:Request, res:Response) => {
   const { ...academicSemesterData } = req.body
-  const result = await AcademicService.createSemester(academicSemesterData)
+  const result =await AcademicSemesterService.createSemester(academicSemesterData)
 
   sendResponse<IAcademicSemester>(res, { statusCode: httpStatus.OK, success: true, message: 'Academic semester is created successfully', data: result })
-    next()
+    
 })
 
-const getAllSemesters = catchAsync(async (req:Request,res:Response,next:NextFunction) => {
+const getAllSemesters = catchAsync(async (req: Request, res: Response) => {
+  
+  const filters = pick(req.query, filtersFields)
   const paginationOptions = pick(req.query,paginationFields)
-  const result = await AcademicSemesterService.getAllSemesters(paginationOptions);
+  const result = await AcademicSemesterService.getAllSemesters(paginationOptions,filters);
     sendResponse<IAcademicSemester[]>(res, {
       statusCode: httpStatus.OK,
       success: true,
@@ -25,10 +28,49 @@ const getAllSemesters = catchAsync(async (req:Request,res:Response,next:NextFunc
       meta:result.meta,
       data: result.data,
     })
-    next()
+    
 })
 
+const getSingleSemester = catchAsync(async (req:Request,res:Response) => {
+  const id:string = req.params.id;
+  const result = await AcademicSemesterService.getSingleSemester(id)
+  sendResponse<IAcademicSemester>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Semester retrive successfully !',
+    data:result,
+  })
+  
+})
+
+const updateSemester = catchAsync(async (req:Request,res: Response) => {
+  const id = req.params.id;
+  const updateData = req.body;
+  const result = await AcademicSemesterService.updateSemester(id, updateData);
+
+  sendResponse<IAcademicSemester>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Semester Update Successfully !',
+    data:result
+  })
+  
+})
+
+const deleteSemester = catchAsync(async (req:Request,res:Response) => {
+  const id = req.params.id;
+  const result = await AcademicSemesterService.deleteSemester(id);
+  sendResponse<IAcademicSemester>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Semester Deleted Successfully!',
+    data:result
+  })
+})
 export const AcademicSemesterController = {
   createSemester,
-  getAllSemesters
+  getAllSemesters,
+  getSingleSemester,
+  updateSemester,
+  deleteSemester
 }
