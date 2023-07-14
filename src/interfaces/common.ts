@@ -10,5 +10,5 @@ export type IGenericResponse<T> = {
     limit: number;
     total: number;
   };
-  data:T
+  data?:T
 }

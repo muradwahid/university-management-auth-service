@@ -1,0 +1,662 @@
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:02:08.921Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:02:48.214Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:03:07.572Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:04:48.061Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:05:00.202Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:05:13.104Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:05:25.311Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:05:40.725Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:05:50.442Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:06:27.332Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:07:58.254Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:08:07.614Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:08:47.012Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:09:05.932Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:09:37.664Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:09:50.975Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:09:57.245Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:10:10.117Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:10:19.644Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:10:55.106Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:11:01.085Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:11:19.156Z'
+}
+{
+  stringValue: `"{ title: { '$regex': undefined, '$options': 'i' } }"`,
+  messageFormat: undefined,
+  kind: 'Array',
+  value: { title: { '$regex': undefined, '$options': 'i' } },
+  path: '$or',
+  reason: undefined,
+  valueType: 'Object',
+  model: Model { AcademicFaculty },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:12:56.527Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:13:33.654Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:14:44.877Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:14:58.387Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:15:27.803Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:15:39.550Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:15:54.085Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:16:06.784Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:16:28.346Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:16:55.545Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:17:13.091Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:17:49.528Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:18:31.592Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:19:21.114Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:21:30.808Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:21:50.935Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:21:57.010Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:22:06.513Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:23:26.566Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:24:01.099Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:24:53.532Z'
+}
+{
+  stringValue: `"{ title: { '$regex': undefined, '$options': 'i' } }"`,
+  messageFormat: undefined,
+  kind: 'Array',
+  value: { title: { '$regex': undefined, '$options': 'i' } },
+  path: '$or',
+  reason: undefined,
+  valueType: 'Object',
+  model: Model { AcademicFaculty },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:25:10.387Z'
+}
+{
+  stringValue: `"{ title: { '$regex': undefined, '$options': 'i' } }"`,
+  messageFormat: undefined,
+  kind: 'Array',
+  value: { title: { '$regex': undefined, '$options': 'i' } },
+  path: '$or',
+  reason: undefined,
+  valueType: 'Object',
+  model: Model { AcademicFaculty },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:25:12.301Z'
+}
+{
+  stringValue: `"{ title: { '$regex': undefined, '$options': 'i' } }"`,
+  messageFormat: undefined,
+  kind: 'Array',
+  value: { title: { '$regex': undefined, '$options': 'i' } },
+  path: '$or',
+  reason: undefined,
+  valueType: 'Object',
+  model: Model { AcademicFaculty },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:25:13.969Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:25:42.808Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:27:25.507Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:27:35.385Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:27:44.990Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:28:16.896Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:28:30.411Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:28:40.096Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:29:51.560Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:31:22.783Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:32:23.661Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:32:52.634Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:33:01.385Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:33:11.114Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:33:19.599Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:34:47.892Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:35:34.237Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:37:25.112Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:39:42.451Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-07-11T14:40:18.791Z'
+}
