@@ -6,129 +6,89 @@
     "auditLog": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\.20ff93393c846116096fd87a7757d6d2cde3a5c0-audit.json",
     "files": [
         {
-            "date": 1688190764608,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-01-11.log",
-            "hash": "366590119d3c3c8169a8c7a3db31b7303af7b77e33ac315f89e6a677addf32f0"
+            "date": 1691561427225,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-09-12.log",
+            "hash": "152cfd30e63ffea32a5eeac7d947b76a2626f48eb0123f9817d1f0c462495c3c"
         },
         {
-            "date": 1688299136717,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-02-17.log",
-            "hash": "439135f8fb8cbbdaf0064d490e9d5969e9f2a8df491656274c914f9e3b5225a7"
+            "date": 1691575670851,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-09-16.log",
+            "hash": "21e9a784e6985a6f0030b2dbb36a146df0a76bbe3de5e626695fed7775393475"
         },
         {
-            "date": 1688308914746,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-02-20.log",
-            "hash": "79a9a5bf3c2394a04ee47885a6ccaeb38d411ec7b77d4ea8503aadf7c999fc6e"
+            "date": 1691584987085,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-09-18.log",
+            "hash": "d5424b5cd3612ed3ac30b06eb441d210cc5eee96850c59e00374293e6839e03b"
         },
         {
-            "date": 1688310067995,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-02-21.log",
-            "hash": "fa0ac86b29bff67244517f8d0d455bc29388e0c3ac678d5403692c045c65bbc4"
+            "date": 1691586079535,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-09-19.log",
+            "hash": "cf62739e0fd6b8eccc422d24f9b0a86ad2c8231a1099cc725631432ca9cef230"
         },
         {
-            "date": 1688364135500,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-03-12.log",
-            "hash": "d399d91a1c78060a3cccbeb5f63f2c64ba7a11ddcc045eead69a934f47ec22ce"
+            "date": 1691657681157,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-10-14.log",
+            "hash": "ff34a40fe7169105855bd0f14f99cdb94bb468fe1d7e146a3609ba303e6758c6"
         },
         {
-            "date": 1688392000610,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-03-19.log",
-            "hash": "992dd1c432ff0b2fa70da2ee926f9e719e4e39183fa16b45f77a0b0555063983"
+            "date": 1691658001922,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-10-15.log",
+            "hash": "98d1168736ced2cb5ab5b9a170990d86139ce6c7c9aa4e3cf30dd202277ce0ba"
         },
         {
-            "date": 1688392802687,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-03-20.log",
-            "hash": "698fbb06c6a89d815ce61b96bf0bcb2d6a0ff0243013c5c8ca1f51abc16e30f9"
+            "date": 1692022119777,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-14-20.log",
+            "hash": "43f60da5622d73819d5359e3415b94ea8e15058fae3ad36201633349ccb8b0e0"
         },
         {
-            "date": 1688397055808,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-03-21.log",
-            "hash": "31fd5b622d93fd00b5d9dd771611851ba24c07065ea944387580137cfdbd309b"
+            "date": 1692029064492,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-14-22.log",
+            "hash": "b5e3a672f34d822a1ffef973cd4c02b91612a5e34e0fa94be850bcf8ac631c7c"
         },
         {
-            "date": 1688538984952,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-05-12.log",
-            "hash": "3ceecefac8336c56d4a02989af420e0c7cd2128ba3a40c82ece27690644185f3"
+            "date": 1692180796150,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-16-16.log",
+            "hash": "6782f4bb2f017dac9ffc781fe1813535104489dd119784424380c04fe67c8a37"
         },
         {
-            "date": 1688621885901,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-06-11.log",
-            "hash": "4f8110bd5e77fd316ef27475bffe2417b0dab7a98bb5a38ebdbe88acd32c6729"
+            "date": 1692187461984,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-16-18.log",
+            "hash": "b4edac67c497307cb77e497a30577489a92d8ffc485c24dff7c3916216abac48"
         },
         {
-            "date": 1688623200069,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-06-12.log",
-            "hash": "fab910195a07d56d6f621c16c43f68b27d50d93470dd8a108b9f637d74513e24"
+            "date": 1692249893702,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-17-11.log",
+            "hash": "c176bda05366a5b73e57ef50458999518446206d37e978dfb32ef833266d11dc"
         },
         {
-            "date": 1688722444983,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-07-15.log",
-            "hash": "ceda65818074bacd0e1504a453e4a9a4b73741531491c82286623bdde64a4a5e"
+            "date": 1692252579970,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-17-12.log",
+            "hash": "ae89d6260775201dfbfa12472b4882301f517a8bff773954d42214956790b5bc"
         },
         {
-            "date": 1688724474599,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-07-16.log",
-            "hash": "80daa4a952e2848f61216625f0e0138823e07e9cb4114282d23a6203324e4a09"
+            "date": 1692262054415,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-17-14.log",
+            "hash": "0c666f7113a7c602c0c60938815591f3b72b4be8a40ab03ad600cc5ad9ddaaa1"
         },
         {
-            "date": 1688727600411,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-07-17.log",
-            "hash": "b98e9eb9c1bcdfe50fd9bceb37df1c4303fd45ae5e5a9826d7aab6948bca7f50"
+            "date": 1692267029942,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-17-16.log",
+            "hash": "a56d04465889844a0e42a098158e9745c03b940ba5dccaec12d5cf3865193b65"
         },
         {
-            "date": 1688735968351,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-07-19.log",
-            "hash": "7b7b8204d47a400cd17051e35cfe131bfd9e9279dd86bdaf643424782c452ec4"
+            "date": 1692607639178,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-21-14.log",
+            "hash": "6fa50a574aad1634bad2993bd0dbd0e851755e11c1f7fe691d2e4bdc35509945"
         },
         {
-            "date": 1688754513574,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-08-00.log",
-            "hash": "64f065e958974921c192dd1aaf64b986bea9bf956b84a99f03c53be90b3ad6a6"
+            "date": 1692608599393,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-21-15.log",
+            "hash": "1f65090c364bc3f64bef0f2c35d22aaa9817386147400c0e4e9d72b47f713c50"
         },
         {
-            "date": 1688793497892,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-08-11.log",
-            "hash": "f79ba5aec95233eb9aad33728695ec5ccbeb27d84fb34815bfade59817de7541"
-        },
-        {
-            "date": 1688810239382,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-08-15.log",
-            "hash": "39859092327ec7250aa2c9ca61ca66bed6c39c3800b5a3b0ee04485e20b7ba45"
-        },
-        {
-            "date": 1688810455685,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-08-16.log",
-            "hash": "002a02508157e7253a2e12899d8bb3d38f5ceda78be4f3813ef09df3639ea205"
-        },
-        {
-            "date": 1688814247947,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-08-17.log",
-            "hash": "b2255100eb0068cbca801f4e0b48f0f3d580f551d29835987f9668f79674d4d3"
-        },
-        {
-            "date": 1688841384289,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-09-00.log",
-            "hash": "f3eea1df03e0da6e272e525996cf2f481c9ce76317fd0b1dc3f18e53869b2131"
-        },
-        {
-            "date": 1689081008165,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-11-19.log",
-            "hash": "5c88c8f0306693f88f36285fe7b168b20e0ada42d407eeb11ed27e1370bc1026"
-        },
-        {
-            "date": 1689084002890,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-11-20.log",
-            "hash": "bc6a248743ca2da642872de0e95aae1192f15c1ba27395d2ab6cb44732178de3"
-        },
-        {
-            "date": 1689328678723,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-14-15.log",
-            "hash": "32463962dcaac1a8358d9a1f4e45c9151863b394de68b2e2a1a69285301e872d"
-        },
-        {
-            "date": 1689328864782,
-            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-07-14-16.log",
-            "hash": "6736c2318ecef3126c21e35e22c99174a840a77763d1b6e2fdb513e9dff29e3c"
+            "date": 1692615056627,
+            "name": "C:\\Users\\Murad-Wahid\\Desktop\\PH-lvl-2\\Mission-3 NoSQL Backend\\Module-11 How to setup and organize your project professionally\\university-management-auth-service\\logs\\winston\\success\\success-2023-08-21-16.log",
+            "hash": "64a60bdbf2ce5d93941a1b34506d452eb1ef08b44c3b23b401962c206b3a9293"
         }
     ],
     "hashType": "sha256"

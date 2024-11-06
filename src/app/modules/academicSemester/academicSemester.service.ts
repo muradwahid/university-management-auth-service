@@ -4,7 +4,6 @@ import ApiError from '../../../errors/ApiError'
 import { paginationHelpers } from '../../../helpers/paginationHelpers'
 import { IGenericResponse } from '../../../interfaces/common'
 import { IPaginationOptions } from '../../../interfaces/pagination'
-import { AcademicSemester } from './academicSemeste.model'
 import {
   academicSemesterSearchAbleField,
   academicSemesterTitleCodeMapper,
@@ -13,6 +12,7 @@ import {
   IAcademicSemester,
   IAcademicSemesterFilters,
 } from './academicSemester.interface'
+import { AcademicSemester } from './academicSemester.model'
 
 const createSemester = async (
   payload: IAcademicSemester
@@ -107,7 +107,11 @@ const updateSemester = async (
   id: string,
   payload: Partial<IAcademicSemester>
 ): Promise<IAcademicSemester | null> => {
-  if (payload.title && payload.code && academicSemesterTitleCodeMapper[payload?.title] !== payload.code) {
+  if (
+    payload.title &&
+    payload.code &&
+    academicSemesterTitleCodeMapper[payload?.title] !== payload.code
+  ) {
     throw new ApiError(httpStatus.BAD_REQUEST, 'Invalid semester code')
   }
   const result = await AcademicSemester.findOneAndUpdate({ _id: id }, payload, {
@@ -116,8 +120,8 @@ const updateSemester = async (
   return result
 }
 
-const deleteSemester = async(id:string) => {
-  const result = await AcademicSemester.findByIdAndDelete(id);
+const deleteSemester = async (id: string) => {
+  const result = await AcademicSemester.findByIdAndDelete(id)
   return result
 }
 

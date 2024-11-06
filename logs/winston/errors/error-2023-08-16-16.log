@@ -1,0 +1,64 @@
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'user5509@gmail.com' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-16T10:20:15.699Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  statusCode: 401,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-16T10:20:49.366Z'
+}
+{
+  statusCode: 401,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-16T10:22:50.861Z'
+}
+{
+  statusCode: 401,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-16T10:22:59.211Z'
+}
+{
+  statusCode: 401,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-16T10:23:02.508Z'
+}
+{
+  statusCode: 401,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-16T10:23:36.553Z'
+}
+{
+  statusCode: 401,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-16T10:34:32.144Z'
+}
+{
+  statusCode: 401,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-16T10:35:55.763Z'
+}
+{
+  statusCode: 404,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-16T10:37:36.975Z'
+}
+{
+  statusCode: 401,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-16T10:37:45.001Z'
+}

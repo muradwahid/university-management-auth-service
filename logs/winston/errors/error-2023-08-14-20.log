@@ -1,0 +1,50 @@
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'user55@gmail.com' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-14T14:09:30.643Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { contactNo: 1 },
+  keyValue: { contactNo: 'user_7' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-14T14:10:07.110Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: '280100002' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-14T14:12:07.707Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: '280100002' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-14T14:12:11.473Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: '280100002' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-14T14:12:32.029Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}

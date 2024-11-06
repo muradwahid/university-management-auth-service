@@ -2,12 +2,12 @@ import { SortOrder } from 'mongoose'
 import { paginationHelpers } from '../../../helpers/paginationHelpers'
 import { IGenericResponse } from '../../../interfaces/common'
 import { IPaginationOptions } from '../../../interfaces/pagination'
+import { academicFacultySearchableFields } from './academicFaculty.constants'
 import {
   IAcademicFaculty,
   IAcademicFacultySerch,
 } from './academicFaculty.interface'
 import { AcademicFaculty } from './academicFaculty.model'
-import {academicFacultySearchableFields } from './academicFaculty.constants'
 
 const createFaculty = async (
   payload: IAcademicFaculty
@@ -28,7 +28,7 @@ const getAllFaculties = async (
   const { page, limit, skip, sortBy, sortOrder } =
     paginationHelpers.calculatePagination(paginationOptios)
   const { searchTerm, ...filtersData } = filters
-  const andCondition = [];
+  const andCondition = []
   if (searchTerm) {
     andCondition.push({
       $or: academicFacultySearchableFields.map(field => ({
@@ -41,9 +41,9 @@ const getAllFaculties = async (
   }
   if (Object.keys(filtersData).length) {
     andCondition.push({
-      $and: Object.entries(filtersData).map(([field, value])=> ({
-        [field]:value
-      }))
+      $and: Object.entries(filtersData).map(([field, value]) => ({
+        [field]: value,
+      })),
     })
   }
   const sortConditions: { [key: string]: SortOrder } = {}
@@ -63,11 +63,16 @@ const getAllFaculties = async (
     data: result,
   }
 }
-const updateFaculty =async (id:string,payload:IAcademicFaculty):Promise<IAcademicFaculty | null> => {
-  const result = await AcademicFaculty.findOneAndUpdate({ _id: id }, payload, { new: true })
+const updateFaculty = async (
+  id: string,
+  payload: IAcademicFaculty
+): Promise<IAcademicFaculty | null> => {
+  const result = await AcademicFaculty.findOneAndUpdate({ _id: id }, payload, {
+    new: true,
+  })
   return result
 }
-const deleteFaculty = async (id:string) => {
+const deleteFaculty = async (id: string) => {
   const result = await AcademicFaculty.deleteOne({ _id: id })
   return result
 }

@@ -21,4 +21,4 @@ export type IAcademicSemesterFilters = {
   title?: string;
 }
 
-export type academicSemesterModel = Model<IAcademicSemester, object>
+export type academicSemesterModel = Model<IAcademicSemester, Record<string, unknown>>

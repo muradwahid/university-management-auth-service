@@ -1,0 +1,164 @@
+{
+  ok: 0,
+  code: 112,
+  codeName: 'WriteConflict',
+  '$clusterTime': {
+    clusterTime: new Timestamp({ t: 1691586006, i: 27 }),
+    signature: {
+      hash: Binary.createFromBase64("FA9oXC6PZTxY76gzZSbhwxb3OH0=", 0),
+      keyId: new Long("7231262382725529602")
+    }
+  },
+  operationTime: new Timestamp({ t: 1691586006, i: 27 }),
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:00:06.677Z',
+  [Symbol(errorLabels)]: Set(1) { 'TransientTransactionError' }
+}
+{
+  errors: {
+    bloodGroup: ValidatorError: `AB` is not a valid enum value for path `bloodGroup`.
+        at validate (C:\Users\Murad-Wahid\Desktop\PH-lvl-2\Mission-3 NoSQL Backend\Module-11 How to setup and organize your project professionally\university-management-auth-service\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\Murad-Wahid\Desktop\PH-lvl-2\Mission-3 NoSQL Backend\Module-11 How to setup and organize your project professionally\university-management-auth-service\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\Murad-Wahid\Desktop\PH-lvl-2\Mission-3 NoSQL Backend\Module-11 How to setup and organize your project professionally\university-management-auth-service\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: '`AB` is not a valid enum value for path `bloodGroup`.',
+        type: 'enum',
+        enumValues: [
+          'A+', 'A-',  'B+',
+          'B-', 'AB+', 'AB-',
+          'O+', 'O-'
+        ],
+        path: 'bloodGroup',
+        value: 'AB'
+      },
+      kind: 'enum',
+      path: 'bloodGroup',
+      value: 'AB',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Admin validation failed',
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:00:28.700Z'
+}
+{ level: 'error', label: 'PH', timestamp: '2023-08-09T13:06:56.579Z' }
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'A-00000' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:07:35.188Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'A-00000' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:09:19.444Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'A-00000' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:10:33.876Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'A-00000' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:10:54.684Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  path: 'admin.ManagementDepartment',
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:11:41.140Z'
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'A-00000' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:12:58.128Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'A-00000' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:15:27.782Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'A-00000' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:16:08.421Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{ level: 'error', label: 'PH', timestamp: '2023-08-09T13:16:43.589Z' }
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'A-00000' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:18:11.228Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{ level: 'error', label: 'PH', timestamp: '2023-08-09T13:18:36.602Z' }
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'F-00000' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:19:15.935Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'F-00000' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-09T13:19:36.573Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{ level: 'error', label: 'PH', timestamp: '2023-08-09T13:26:04.507Z' }
+{ level: 'error', label: 'PH', timestamp: '2023-08-09T13:26:15.823Z' }
+{ level: 'error', label: 'PH', timestamp: '2023-08-09T13:28:28.019Z' }
+{ level: 'error', label: 'PH', timestamp: '2023-08-09T13:29:22.924Z' }
+{ level: 'error', label: 'PH', timestamp: '2023-08-09T13:31:01.718Z' }
+{ level: 'error', label: 'PH', timestamp: '2023-08-09T13:35:06.602Z' }
+{ level: 'error', label: 'PH', timestamp: '2023-08-09T13:36:12.200Z' }
